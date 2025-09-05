@@ -1,0 +1,3 @@
+{
+    "salesforcedx-vscode-apex.languageServer.restartBehavior": "prompt"
+}
