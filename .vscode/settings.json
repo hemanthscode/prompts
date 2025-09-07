@@ -1,3 +1,22 @@
 {
-    "salesforcedx-vscode-apex.languageServer.restartBehavior": "prompt"
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#889ccb",
+        "activityBar.background": "#889ccb",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#9b445e",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#889ccb",
+        "statusBar.background": "#647fbc",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#889ccb",
+        "statusBarItem.remoteBackground": "#647fbc",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#647fbc",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#647fbc99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#647FBC"
 }
